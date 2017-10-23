@@ -1,8 +1,8 @@
-HTML code style
+# HTML code style
 
-ファイル名: Kebab-case
-タブ数: 4space
-最大改行数: 1行
+* ファイル名: Kebab-case
+* タブ数: 4space
+* 最大改行数: 1行
 
 ```template
 <!DOCTYPE html>
@@ -42,7 +42,7 @@ HTML code style
 注5: 属性が多い場合はタグ宣言内で改行
 ```
 <div 
-　　　　id="docs-aria-speakable"
+　id="docs-aria-speakable"
   class="a-pk"
   aria-live="assertive"
   role="region"
