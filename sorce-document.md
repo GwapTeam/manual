@@ -37,8 +37,13 @@ github Gwapチームにて管理(https://github.com/GwapTeam)
 
 
 
-
-
+## リポジトリの作り方
+1. (Gwapチームにアクセス)[https://github.com/GwapTeam]
+2. 右上の`Customize pinned repositories`の`New`ボタンをクリック(リンク)[https://github.com/organizations/GwapTeam/repositories/new]
+3. Repository name（kebab-case）とDescriptionを記述し`Create repository`ボタンをクリック
+4. 続きは調べてください
+    * (参考サイト)[http://tweeeety.hateblo.jp/entry/2016/02/10/000712]
+    * (参考サイト)[https://qiita.com/fujiR/items/8b5b5d0922a1a9678ede]
 
 
 
