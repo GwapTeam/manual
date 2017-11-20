@@ -1,10 +1,9 @@
-# shooting-game手順書 
+# {教材名}手順書 
 
 
 ## 概要
-JSのライブラリ学習がコンセプトです。
-htmlへのライブラリのimport、createJSおよびゲームライブラリ全般に共通する特有な動作の第一歩としての学習になります。
-_最下部にextra完成時のコメントつきjsがあります。_
+hogehogehugahuga
+_重要なhogehogehogehoge_
 
 ## 注意
 改行は手順書での指定はないためよしなにしてください。
